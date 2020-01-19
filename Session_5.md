@@ -1,5 +1,8 @@
-In our final session, we will share...
+In our final session, we will look at the larger roles and responsibilities educators have in using data. How do we involve other stakeholders in our work?
+
+One of the promises of our abundance of data is its _democratization_—the ability for anyone to access and share the stories found within the data. However, this work requires a basic level of data literacy that many may not have. Miriam Posner, a professor in the digital humanities program at UCLA, reminds us that “The boxes we use to label others are often not the ones they might use to describe themselves.” When data use and storytelling with data are the province of only a few skilled people, we are not inclusive of the views of others. We can only expect disproportionate outcomes from this absence of voice “because a single visualization supplied by authorities may show only one facet of the data” (Jofre, 2016). To use data in service of equity, we must do better in our collaborations with students, parents, and the community. This is not just about building their skills with data, but also creating spaces for them to tell their own stories. In Feminism and Methodology: Social Science Issues (1987), Sandra Harding notes that “the questions an oppressed group wants answered are rarely requests for so-called truth. Instead, they are queries about how to change conditions.” 
 
 
+Teachers Interpreting Data for Equity
 
-PLC Equity article
+Garner, B., Thorne, J. and Horn, I. (2017), "Teachers interpreting data for instructional decisions: where does equity come in?"[https://www.researchgate.net/profile/Brette_Garner/publication/316533903_Teachers_Interpreting_Data_for_Instructional_Decisions_Where_Does_Equity_Come_In/links/59e676a54585151e545cdf24/Teachers-Interpreting-Data-for-Instructional-Decisions-Where-Does-Equity-Come-In.pdf], Journal of Educational Administration, Vol. 55 No. 4, pp. 407-426. https://doi.org/10.1108/JEA-09-2016-0106 
