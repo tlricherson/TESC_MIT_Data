@@ -5,3 +5,6 @@ One of the promises of our abundance of data is its _democratization_—the abil
 
 ## Reading ##
 Garner, B., Thorne, J. and Horn, I. (2017), [Teachers interpreting data for instructional decisions: where does equity come in?](https://www.researchgate.net/profile/Brette_Garner/publication/316533903_Teachers_Interpreting_Data_for_Instructional_Decisions_Where_Does_Equity_Come_In/links/59e676a54585151e545cdf24/Teachers-Interpreting-Data-for-Instructional-Decisions-Where-Does-Equity-Come-In.pdf), Journal of Educational Administration, Vol. 55 No. 4, pp. 407-426. https://doi.org/10.1108/JEA-09-2016-0106 
+
+
+* Students in Civic Art & Design Studio (IN123), with professor [Catherine DʼIgnazio](http://www.kanarinka.com/), visualized 100 of the more than 6,000 citizen questions collected by the City of Boston as part of the GoBoston 2030 transportation planning process. [This video](https://www.youtube.com/watch?v=G3Q70ppWVSk) is realized as a large, projected public art installation. Are you interested in making your own gifs? There are lots of great resources on the web. Check out the [repo on making data-related animated gifs](https://github.com/lenagroeger/gifs) from [Lena Groeger](https://twitter.com/lenagroeger) of ProPublica.
