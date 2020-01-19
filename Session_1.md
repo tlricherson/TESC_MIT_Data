@@ -13,8 +13,8 @@ Nearly all of you have placements in districts that use the Danielson Framework 
 
 
 
-## Other resources ##
-The articles below are not required reading. They are included here as a reference, in case anyone is interested in delving deeper into these topics.
+## Literature review ##
+The articles below are not required reading. They are included here as a reference only, or if you are interested in delving deeper into the topics for this week.
 
 Datnow, A., & Hubbard, L. (2016). [Teacher capacity for and beliefs about data-driven decision making: A literature review of international research.](https://link.springer.com/article/10.1007/s10833-015-9264-2) Journal of Educational Change, 17(1), 7-28.
 
@@ -34,6 +34,3 @@ Zadra, J. R., & Clore, G. L. (2011). [Emotion and perception: The role of affect
 
 ## Bunny trails ##
 * Learn more about the [history of data visualization in journalism](https://eagereyes.org/link/scott-klein-on-the-history-of-data-journalism) as told by [Scott Klein](https://twitter.com/kleinmatic) of ProPublica. You can watch his presentation at the 2016 Tapestry conference at the link above.
-* Watch the 2016 Eyeo presentation, [Setting Tangents around a Circle](https://vimeo.com/channels/eyeo2016/176869833), from [Josh Begley](https://twitter.com/joshbegley) and consider the impact of our choices about which data to include or exclude.
-* Have you ever tried to imagine how a fish soup tastes whose recipe is based on publicly available local fishing data? Or what a pizza would be like if it was based on Helsinki’s population mix? [Data Cuisine](http://data-cuisine.net/), led by [Moritz Stefaner](https://twitter.com/moritz_stefaner), explores food as a means of data expression - or, if you like – edible diagrams.
-* Students in Civic Art & Design Studio (IN123), with professor [Catherine DʼIgnazio](http://www.kanarinka.com/), visualized 100 of the more than 6,000 citizen questions collected by the City of Boston as part of the GoBoston 2030 transportation planning process. [This video](https://www.youtube.com/watch?v=G3Q70ppWVSk) is realized as a large, projected public art installation. Are you interested in making your own gifs? There are lots of great resources on the web. Check out the [repo on making data-related animated gifs](https://github.com/lenagroeger/gifs) from [Lena Groeger](https://twitter.com/lenagroeger) of ProPublica.
