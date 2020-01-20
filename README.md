@@ -19,5 +19,7 @@ Course materials, including session agendas and assignments will be placed on th
 
 ## Contact ##
 Tara Richerson, Supervisor for Data and Assessment
+
 Tumwater School District
+
 tara.richerson@tumwater.k12.wa.us
