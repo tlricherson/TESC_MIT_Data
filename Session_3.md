@@ -1,5 +1,9 @@
 For our third session, we'll look at organizing and transforming data, as well as considering some ethical questions. How do we make decisions about what we include or exclude? What are the issues related to privacy when it comes to data?
 
+## Readings ##
+
+## Agenda ##
+
 ## Resources ##
 * The [Family Educational Rights and Privacy Act (FERPA)](https://www2.ed.gov/policy/gen/guid/fpco/ferpa/index.html) is a federal law that protects student privacy in terms of education records. It even applies to college students like you. As a classroom teacher, it is important to understand what you should or shouldn't share (and with whom). 
 * OSPI also has a page devoted to [student privacy](https://www.k12.wa.us/data-reporting/protecting-student-privacy) for our state. In addition, it uses a [data governance](https://www.k12.wa.us/about-ospi/workgroups-committees/currently-meeting-workgroups/k-12-data-governance) group to determine what types of data should be collected.
