@@ -10,7 +10,14 @@ The purpose of this course is to provide an overview of the ways teachers collec
 
 Course materials, including session agendas and assignments will be placed on this repository. Use the links above for each session to find the resources.
 
-### Contact ###
+## Schedule ##
+* Session 1: January 29, 2020 | 3 - 5 pm | Sem II B2109
+* Session 2: February 12, 2020 | 3 - 5 pm | Sem II B2109
+* Session 3: February 19, 2020 | 3 - 5 pm | Sem II B2109
+* Session 4: March 4, 2020 | 3 - 5 pm | Sem II B2109
+* Session 5: March 11, 2020 | 3 - 5 pm | Sem II B2109
+
+## Contact ##
 Tara Richerson, Supervisor for Data and Assessment
 Tumwater School District
 tara.richerson@tumwater.k12.wa.us
