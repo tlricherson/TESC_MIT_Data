@@ -9,7 +9,13 @@ The Office of Superintendent of Public Instruction (OSPI) hosts a variety of dat
 * You can view and download historic data for districts and schools on the [Data Portal](https://www.k12.wa.us/data-reporting/data-portal).
 * Our state [report card](https://washingtonstatereportcard.ospi.k12.wa.us/) is intended to answer parent and community questions about student demographics, program participation, and performance.
 
-The [Education Research and Data Center](https://erdc.wa.gov/) coordinates data sets between early learning, public K - 12, and college for Washington state. 
+The [Educational Research Data Center (ERDC)](http://www.erdc.wa.gov/) has built a longitudinal data system that includes information on Washington students across multiple sectors. These sectors include early learning, K-12, post-secondary, and workforce sectors. These data are shared with ERDC by partnering agencies and institutions across the state. In this way, ERDC acts as a kind of “central hub,” where partnering agencies, institutions, and organizations can pool their data and seek answers to questions that none of them have the resources to answer by themselves.
+
+Visit the [National Center for Educational Statistics](https://nces.ed.gov/) is the primary federal entity for collecting and analyzing data related to education in the U.S. and other nations. You may also be interested in the [Civil Rights Data Collection](https://ocrdata.ed.gov/) which collects and publishes educational data related to civil rights and equity.
+
+Many public organizations have open data collections (and, if not, you can obtain information through the public disclosure process). Here are some [links to additional collections](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0), including wikipedia edits, air quality, Pokemon, and more.
+
+Head over to [Data USA](https://datausa.io/), a "comprehensive website and visualization engine of public US Government data" to find, map, compare, or download all manner of data related to living in the United States.
 
 
 https://vimeo.com/133608605
