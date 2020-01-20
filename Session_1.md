@@ -1,12 +1,12 @@
 In this session, we will consider how data use in schools has evolved, as well as an overview of the skills needed to use data effectively in the classroom. We will also start building an idea of what it means to tell a story with data.
 
 ## Readings ##
-We will use the skills list in the article below to organize our learning throughout the course. As you read, think about which skills you have and which ones you would like to build experience with. Please complete this reading before our first class.
+Please complete these prior to our first meeting.
 
-Mandinach, E. B., & Gummer, E. S. (2016). [What does it mean for teachers to be data literate: Laying out the skills, knowledge, and dispositions.](http://www.sciencedirect.com/science/article/pii/S0742051X16301391) Teaching and Teacher Education, 60, 366-376.
+We will use the skills list in the article below to organize our learning throughout the course. As you read, think about which skills you have and which ones you would like to build experience with. 
+* Mandinach, E. B., & Gummer, E. S. (2016). [What does it mean for teachers to be data literate: Laying out the skills, knowledge, and dispositions.](http://www.sciencedirect.com/science/article/pii/S0742051X16301391) Teaching and Teacher Education, 60, 366-376.
 
-Nearly all of you have placements in districts that use the Danielson Framework to evaluate teachers. The indicators below are the ones which speak directly to data use. Please review these prior to our first meeting.
-
+Nearly all of you have placements in districts that use the Danielson Framework to evaluate teachers. The indicators below are the ones which speak directly to data use. 
 * [Danielson 1f - Using student assessments](https://github.com/tlricherson/dataacademy/blob/master/documents/1f%20Using%20Student%20Assessments.pdf)
 * [Danielson 3d - Using assessment in instruction](https://github.com/tlricherson/dataacademy/blob/master/documents/3d%20Using%20Assessment%20in%20Instruction.pdf)
 * [Danielson 4b - Maintaining accurate records](https://github.com/tlricherson/dataacademy/blob/master/documents/4b%20Maintaining%20Accurate%20Records.pdf)
