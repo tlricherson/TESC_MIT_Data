@@ -1,6 +1,8 @@
 Although we will have some practice with talking about data visualization throughout all of our sessions, this one will focus on some practical knowledge in terms of constructing these visuals.
 
+## Readings ##
 
+## Agenda ##
 
 ## Tell me a story ##
 We are rarely good storytellers...but why? An article from PsychCentral explores why [most people are awful storytellers](https://psychcentral.com/news/2017/02/15/why-most-people-are-awful-storytellers/116460.html) and The Book of Life provides some tips on [how to narrate your dreams](http://www.thebookoflife.org/how-to-narrate-your-dreams/). Even better, check out [The Art of Storytelling](https://www.khanacademy.org/partner-content/pixar/storytelling), a free course from Pixar. It is part of their [Pixar in a Box](https://www.khanacademy.org/partner-content/pixar) program that helps you learn how their artists do their jobs.
