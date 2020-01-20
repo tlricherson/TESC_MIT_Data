@@ -12,8 +12,10 @@ Nearly all of you have placements in districts that use the Danielson Framework 
 * [Danielson 4b - Maintaining accurate records](https://github.com/tlricherson/dataacademy/blob/master/documents/4b%20Maintaining%20Accurate%20Records.pdf)
 
 ## Agenda ##
-Welcome and introductions
-
+* Welcome and introductions
+* Data viz critique
+* Effective data use in schools: past, present, and future
+* Tabletop data: Build a story
 
 ## Literature review ##
 **The articles below are not required reading. They are included here as reference only.**
