@@ -14,7 +14,7 @@ Explore the [infernal topography](http://www.alpacaprojects.com/inferno/en/) bas
 Some Twitter bots may provoke your thinking about the difference between *looking* and *seeing*. Follow the [picsdescbot](https://twitter.com/picdescbot) and [What do you see?](https://twitter.com/tinydotblot). Or, go old school and check out some [droodles](https://en.wikipedia.org/wiki/Droodles).
 
 ## Inspiration ##
-Check out [Dear Data](http://www.dear-data.com/theproject), "a year-long, analog data drawing project by [Giorgia Lupi](https://twitter.com/giorgialupi) and [Stefanie Posavec](https://twitter.com/stefpos), two award-winning information designers living on different sides of the Atlantic. By collecting and hand drawing their personal data and sending it to each other in the form of postcards, they became friends."
+Check out [Dear Data](http://www.dear-data.com/theproject), "a year-long, analog data drawing project by [Giorgia Lupi](https://twitter.com/giorgialupi) and [Stefanie Posavec](https://twitter.com/stefpos), two award-winning information designers living on different sides of the Atlantic. By collecting and hand drawing their personal data and sending it to each other in the form of postcards, they became friends." If you have an hour, watch the Eyeo [presentation on the Dear Data Project](https://vimeo.com/133608605).
 
 Visit the Pinterest sites of [Jon Schwabish](https://www.pinterest.com/jonschwabish/) or [Lynn Cherny](https://www.pinterest.com/arnicas/) for tagged collections of charts (good, bad, and ugly), design items, and more.
 
