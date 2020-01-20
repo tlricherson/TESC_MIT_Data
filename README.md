@@ -9,3 +9,8 @@ Public narratives about schools often focus on measures of student performance. 
 The purpose of this course is to provide an overview of the ways teachers collect, represent, and use data as part of their professional practice. Topics will include ethical data practices, as well as inclusive ones. During each class, we will spend time critiquing data visualizations as a way to learn more about how to best communicate with data. You will also engage in some discussion around the background reading. We will use table top exercises with data to identify strategies for telling stories with data. 
 
 Course materials, including session agendas and assignments will be placed on this repository. Use the links above for each session to find the resources.
+
+### Contact ###
+Tara Richerson, Supervisor for Data and Assessment
+Tumwater School District
+tara.richerson@tumwater.k12.wa.us
