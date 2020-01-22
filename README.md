@@ -18,5 +18,4 @@ Course materials, including session agendas and assignments will be placed on th
 * Session 5: March 11, 2020 | 3 - 5 pm | Sem II B2109
 
 ## Contact ##
-Tara Richerson | Supervisor for Data and Assessment | Tumwater School District
-tara.richerson@tumwater.k12.wa.us
+Tara Richerson | Supervisor for Data and Assessment | Tumwater School District | tara.richerson@tumwater.k12.wa.us
