@@ -18,7 +18,7 @@ Nearly all of you have placements in districts that use the Danielson Framework 
 * Tabletop data: Paper spreadsheet
 
 ## Assignment #1 ##
-We are going to practice opportunities to capture data, then share what we learn. Select one of the options from [Observe, Collect, Draw!](https://www.amazon.com/Observe-Collect-Draw-Visual-Journal/dp/1616897147)below to complete. Printed copies will also be provided at our first meeting. Students who are auditing the course are not required to complete this assignment. Bring the completed assignment with you to the second class meeting (Wednesday, February 19).
+We are going to practice opportunities to capture data, then share what we learn. Select one of the options from [Observe, Collect, Draw!](https://www.amazon.com/Observe-Collect-Draw-Visual-Journal/dp/1616897147) below to complete. Printed copies will also be provided at our first meeting. Students who are auditing the course are not required to complete this assignment. Bring the completed assignment with you to the second class meeting (Wednesday, February 19).
 
 Books |  Schedule
 
