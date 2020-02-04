@@ -15,7 +15,12 @@ Nearly all of you have placements in districts that use the Danielson Framework 
 * Welcome and introductions
 * Data viz critique
 * Effective data use in schools: past, present, and future
-* Tabletop data: Build a story
+* Tabletop data: Paper spreadsheet
+
+## Assignment #1 ##
+We are going to practice opportunities to capture data, then share what we learn. Select one of the options from [Observe, Collect, Draw!](https://www.amazon.com/Observe-Collect-Draw-Visual-Journal/dp/1616897147)below to complete. Printed copies will also be provided at our first meeting. Students who are auditing the course are not required to complete this assignment. Bring the completed assignment with you to the second class meeting (Wednesday, February 19).
+
+Books |  Schedule
 
 ## Literature review ##
 **The articles below are not required reading. They are included here as reference only.**
