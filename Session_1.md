@@ -1,4 +1,4 @@
-In this session, we will consider how data use in schools has evolved, as well as an overview of the skills needed to use data effectively in the classroom. We will also start building an idea of what it means to tell a story with data.
+In this session, we will consider how data use in schools has evolved, as well as an overview of the skills needed to use data effectively in the classroom. We will also start building our understanding of data types, collection, and organization.
 
 ## Readings ##
 Please complete these prior to our first meeting.
