@@ -20,7 +20,7 @@ Nearly all of you have placements in districts that use the Danielson Framework 
 ## Assignment #1 ##
 We are going to practice opportunities to capture data, then share what we learn. Select one of the options from [Observe, Collect, Draw!](https://www.amazon.com/Observe-Collect-Draw-Visual-Journal/dp/1616897147) below to complete. Printed copies will also be provided at our first meeting. Students who are auditing the course are not required to complete this assignment. Bring the completed assignment with you to the second class meeting (Wednesday, February 19).
 
-Books |  Schedule
+[My Books](https://github.com/tlricherson/TESC_MIT_Data/blob/master/handouts/Books.pdf) |  [Balancing My Schedule](https://github.com/tlricherson/TESC_MIT_Data/blob/master/handouts/Schedule.pdf)
 
 ## Literature review ##
 **The articles below are not required reading. They are included here as reference only.**
