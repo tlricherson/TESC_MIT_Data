@@ -7,9 +7,9 @@ While most of the work of a classroom teacher may not include frequent access wi
 
 ## Agenda ##
 * Debrief Assignment #1
-* Asking questions
+* Asking "good" questions
 * A tour of educational data in Washington State
-* Data in the classroom
+* Involving stakeholders in our work
 
 ## Resources ##
 The sites below are offered as some quick starting points for exploration. You do not need to review them in depth, but take a quick glance at them. Consider where the data entered either about you or by you ends up. 
