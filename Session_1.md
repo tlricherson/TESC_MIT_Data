@@ -19,6 +19,8 @@ Nearly all of you have placements in districts that use the Danielson Framework 
 
 ## Assignment #1 ##
 We are going to practice opportunities to capture data, then share what we learn. Select one of the options from [Observe, Collect, Draw!](https://www.amazon.com/Observe-Collect-Draw-Visual-Journal/dp/1616897147) below to complete. Printed copies will also be provided at our first meeting. Students who are auditing the course are not required to complete this assignment. Bring the completed assignment with you to the second class meeting (Wednesday, February 19).
+* For this assignment, focus on the *process* and not the *product*. This means that you want to be aware of your thinking as you try to either capture elements from your day or from a shelf of books.
+* You do not have to create a visual strictly according to the directions. It's okay to just use pencil and scratch paper or other materials. The goal here is to recognize and represent different elements of everyday things. Building this "muscle" will help you in your classroom work as you try to notice student behaviors, document learning spaces, or looking for patterns in conversations.
 
 [My Books](https://github.com/tlricherson/TESC_MIT_Data/blob/master/handouts/Books.pdf) |  [Balancing My Schedule](https://github.com/tlricherson/TESC_MIT_Data/blob/master/handouts/Schedule.pdf)
 
