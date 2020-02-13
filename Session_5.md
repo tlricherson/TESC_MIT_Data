@@ -1,7 +1,7 @@
 In our final session, we will look at the larger roles and responsibilities educators have in using data. How do we involve other stakeholders in our work? Whether they are peers, students, families, or community, we can use data with them (as opposed to something we do to them) to enact and support positive change.
 
 ## Readings ##
-
+Garner, B., Thorne, J. and Horn, I. (2017), [Teachers interpreting data for instructional decisions: where does equity come in?](https://www.researchgate.net/profile/Brette_Garner/publication/316533903_Teachers_Interpreting_Data_for_Instructional_Decisions_Where_Does_Equity_Come_In/links/59e676a54585151e545cdf24/Teachers-Interpreting-Data-for-Instructional-Decisions-Where-Does-Equity-Come-In.pdf), Journal of Educational Administration, Vol. 55 No. 4, pp. 407-426. https://doi.org/10.1108/JEA-09-2016-0106 
 
 ## Agenda ##
 
