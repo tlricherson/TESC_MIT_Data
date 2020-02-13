@@ -12,7 +12,7 @@ None required for this week. Instead, complete the first assignment (see [Sessio
 * Data in the classroom
 
 ## Resources ##
-The sites below are offered as some quick starting points for exploration. They are for reference only. 
+The sites below are offered as some quick starting points for exploration. You do not need to review them in depth, but take a quick glance at them. Consider where the data entered either about you or by you ends up. 
 
 The Office of Superintendent of Public Instruction (OSPI) hosts a variety of data, from student performance, to facilities, to fiscal allocations, and more. We will talk about the various paths and connections between these during class time, but here are a few of the most relevant starting points to learn more:
 * You can view and download historic data for districts and schools on the [Data Portal](https://www.k12.wa.us/data-reporting/data-portal).
