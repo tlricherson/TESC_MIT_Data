@@ -7,11 +7,13 @@ Here is what your input on the framework looked like for **Identify problems and
 <p align="center"> 
 <img src="https://github.com/tlricherson/TESC_MIT_Data/blob/master/graphics/Find%20questions.jpg" height="250">
 </p>
+
 There was not a clear cut winner in this area. We will try to address the various learning interests in Sessions 2 and 3. For this session, we will primarily focus on *possible sources/variety of data*.
 
 <p align="center"> 
 <img src="https://github.com/tlricherson/TESC_MIT_Data/blob/master/graphics/Use%20data.jpg" height="250">
 </p>
+
 *Involve other participants or stakeholders* was identified by three students as something they most wanted to learn in this area. I've placed some resources at the bottom of this page, but we will certainly spend some time talking about how to include educators, parents, and students as part of the decision-making process. How do we involve other stakeholders in our work? Whether they are peers, students, families, or community, we can use data with them (as opposed to something we do to them) to enact and support positive change.
 
 ## Background ##
@@ -43,10 +45,6 @@ Many public organizations have open data collections (and, if not, you can obtai
 
 Head over to [Data USA](https://datausa.io/), a "comprehensive website and visualization engine of public US Government data" to find, map, compare, or download all manner of data related to living in the United States.
 
-### Sample projects ###
-* Check out a community-based example from Barcelona and consider the reasons wy [Smart Cities Need Thick Data, Not Big Data](https://www.researchgate.net/profile/Adrian_Smith15/publication/326849902_Smart_cities_need_thick_data_not_big_data/links/5b8651bd92851c1e12390bb0/Smart-cities-need-thick-data-not-big-data.pdf?origin=publication_detail). 
-* Students in Civic Art & Design Studio (IN123), with professor [Catherine DʼIgnazio](http://www.kanarinka.com/), visualized 100 of the more than 6,000 citizen questions collected by the City of Boston as part of the GoBoston 2030 transportation planning process. [This video](https://www.youtube.com/watch?v=G3Q70ppWVSk) is realized as a large, projected public art installation. Are you interested in making your own gifs? There are lots of great resources on the web. Check out the [repo on making data-related animated gifs](https://github.com/lenagroeger/gifs) from [Lena Groeger](https://twitter.com/lenagroeger) of ProPublica.
-
 ## Literature review ##
 A few of you indicated that one of the framework elements you most wanted to learn in the area of finding data and asking questions was about *involving stakeholders*. While the articles below do not come from the field of education, they are useful examples of what happens when we build the capacity of others to become involved in our work with data.
 
@@ -63,3 +61,7 @@ Jofre, A., Szigeti, S., & Diamond, S. (2016). [Citizen engagement through tangib
 Kim, Y. S., Reinecke, K., & Hullman, J. (2018). [Data Through Others' Eyes: The Impact of Visualizing Others' Expectations on Visualization Interpretation](http://users.eecs.northwestern.edu/~jhullman/VIS17_Expectations_SocialVis.pdf). IEEE Transactions on Visualization & Computer Graphics, (1), 1-1.
 
 Taylor, A. S., Lindley, S., Regan, T., Sweeney, D., Vlachokyriakos, V., Grainger, L., & Lingel, J. (2015, April). [Data-in-place: Thinking through the relations between data and community.](http://openaccess.city.ac.uk/19126/1/Data%20in%20place%20-%20submitted.pdf) In Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems (pp. 2863-2872). ACM.
+
+### Sample projects ###
+* Check out a community-based example from Barcelona and consider the reasons wy [Smart Cities Need Thick Data, Not Big Data](https://www.researchgate.net/profile/Adrian_Smith15/publication/326849902_Smart_cities_need_thick_data_not_big_data/links/5b8651bd92851c1e12390bb0/Smart-cities-need-thick-data-not-big-data.pdf?origin=publication_detail). 
+* Students in Civic Art & Design Studio (IN123), with professor [Catherine DʼIgnazio](http://www.kanarinka.com/), visualized 100 of the more than 6,000 citizen questions collected by the City of Boston as part of the GoBoston 2030 transportation planning process. [This video](https://www.youtube.com/watch?v=G3Q70ppWVSk) is realized as a large, projected public art installation. Are you interested in making your own gifs? There are lots of great resources on the web. Check out the [repo on making data-related animated gifs](https://github.com/lenagroeger/gifs) from [Lena Groeger](https://twitter.com/lenagroeger) of ProPublica.
