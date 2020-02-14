@@ -14,4 +14,5 @@ Garner, B., Thorne, J. and Horn, I. (2017), [Teachers interpreting data for inst
 
 ## Agenda ##
 
-
+## Resources ##
+Some Twitter bots may provoke your thinking about the difference between *looking* and *seeing*. Follow the [picsdescbot](https://twitter.com/picdescbot) and [What do you see?](https://twitter.com/tinydotblot). Or, go old school and check out some [droodles](https://en.wikipedia.org/wiki/Droodles).
