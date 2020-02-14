@@ -1,6 +1,8 @@
 # Session 3: Transform data into information #
 
-For our third session, we'll look at organizing and transforming data, as well as considering some ethical questions. How do we make decisions about what we include or exclude? This means we will dabble in both the *Use data* part of the framework and *Transform data into information*. Your self-evaluation and input on using data are on the page for session two. Here is what you shared about transforming data:
+For our third session, we'll look at organizing and transforming data, as well as considering some ethical questions. How do we make decisions about what we include or exclude? This means we will dabble in both the *Use data* part of the framework and *Transform data into information*. Although we will have some practice with talking about data visualization throughout all of our sessions, this one will focus on some practical knowledge in terms of constructing these visuals.
+
+Your self-evaluation and input on using data are on the page for session two. Here is what you shared about transforming data:
 
 <p align="center"> 
 <img src="https://github.com/tlricherson/TESC_MIT_Data/blob/master/graphics/Transform%20data.jpg" height="250">
