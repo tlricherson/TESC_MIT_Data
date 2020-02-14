@@ -2,7 +2,7 @@
 
 During this session, we will consider how to use questions to drive inquiry into our classroom practices. We will also look at how data are collected and communicated between both users and systems and ethics related to that. While most of the work of a classroom teacher may not include frequent access with state or national data, it is important to understand how to access additional information. 
 
-This page is rather long. :/  The top section relates to the *Identify problems and frame questions* section of our framework. Keep on scrolling down for *Use data*.
+This page is rather long. :/  Be sure to bring your snacks along. The top section relates to the *Identify problems and frame questions* section of our framework. Keep on scrolling down for *Use data*.
 
 ## Readings ##
 **None required for this week.** Instead, complete the first assignment (see [Session 1 Page](https://github.com/tlricherson/TESC_MIT_Data/blob/master/Session_1.md) for details) and spend a few minutes clicking through the resources listed below.
