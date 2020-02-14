@@ -46,8 +46,6 @@ Many public organizations have open data collections (and, if not, you can obtai
 Head over to [Data USA](https://datausa.io/), a "comprehensive website and visualization engine of public US Government data" to find, map, compare, or download all manner of data related to living in the United States.
 
 ## Literature review ##
-A few of you indicated that one of the framework elements you most wanted to learn in the area of finding data and asking questions was about *involving stakeholders*. While the articles below do not come from the field of education, they are useful examples of what happens when we build the capacity of others to become involved in our work with data.
-
 **The articles below are not required reading. They are included here as reference only.**
 
 Cantù, D., & Selloni, D. (2013). [From engaging to empowering people: a set of co-design experiments with a service design perspective](http://www.simpact-project.eu/publications/scientific/SelloniCantu_Engagement.pdf).
