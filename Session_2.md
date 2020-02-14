@@ -9,9 +9,13 @@ This page is rather long. :/  The top section relates to the *Identify problems 
 
 ## Agenda ##
 * Debrief Assignment #1
-* Asking "good" questions
-* A tour of educational data in Washington State
-* Involving stakeholders in our work
+* Identify problems and frame questions
+>> * What's the problem you're trying to solve?
+>> * Involving other participants or stakeholders
+>> * Student privacy and data ethics
+* Use data
+>> * Debrief Assignment #1 (consider data organization, management, quality, types)
+>> * Data sources
 
 ## Frame questions ##
 
