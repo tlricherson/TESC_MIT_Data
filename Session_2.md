@@ -29,19 +29,6 @@ The sites below are offered as some quick starting points for exploration. You d
 * The [Family Educational Rights and Privacy Act (FERPA)](https://www2.ed.gov/policy/gen/guid/fpco/ferpa/index.html) is a federal law that protects student privacy in terms of education records. It even applies to college students like you. As a classroom teacher, it is important to understand what you should or shouldn't share (and with whom). 
 * OSPI also has a page devoted to [student privacy](https://www.k12.wa.us/data-reporting/protecting-student-privacy) for our state. In addition, it uses a [data governance](https://www.k12.wa.us/about-ospi/workgroups-committees/currently-meeting-workgroups/k-12-data-governance) group to determine what types of data should be collected.
 
-### Data sources ###
-The Office of Superintendent of Public Instruction (OSPI) hosts a variety of data, from student performance, to facilities, to fiscal allocations, and more. We will talk about the various paths and connections between these during class time, but here are a few of the most relevant starting points to learn more:
-* You can view and download historic data for districts and schools on the [Data Portal](https://www.k12.wa.us/data-reporting/data-portal).
-* Our state [report card](https://washingtonstatereportcard.ospi.k12.wa.us/) is intended to answer parent and community questions about student demographics, program participation, and performance.
-
-The [Educational Research Data Center (ERDC)](http://www.erdc.wa.gov/) has built a longitudinal data system that includes information on Washington students across multiple sectors. These sectors include early learning, K-12, post-secondary, and workforce sectors. These data are shared with ERDC by partnering agencies and institutions across the state. In this way, ERDC acts as a kind of “central hub,” where partnering agencies, institutions, and organizations can pool their data and seek answers to questions that none of them have the resources to answer by themselves.
-
-Visit the [National Center for Educational Statistics](https://nces.ed.gov/) is the primary federal entity for collecting and analyzing data related to education in the U.S. and other nations. You may also be interested in the [Civil Rights Data Collection](https://ocrdata.ed.gov/) which collects and publishes educational data related to civil rights and equity.
-
-Many public organizations have open data collections (and, if not, you can obtain information through the public disclosure process). Here are some [links to additional collections](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0), including wikipedia edits, air quality, Pokemon, and more.
-
-Head over to [Data USA](https://datausa.io/), a "comprehensive website and visualization engine of public US Government data" to find, map, compare, or download all manner of data related to living in the United States.
-
 ### Literature review ###
 **The articles below are not required reading. They are included here as reference only.**
 
@@ -73,3 +60,16 @@ Taylor, A. S., Lindley, S., Regan, T., Sweeney, D., Vlachokyriakos, V., Grainger
 
 ### Background ###
 One of the promises of our abundance of data is its _democratization_—the ability for anyone to access and share the stories found within the data. However, this work requires a basic level of data literacy that many may not have. Miriam Posner, a professor in the digital humanities program at UCLA, reminds us that “The boxes we use to label others are often not the ones they might use to describe themselves.” When data use and storytelling with data are the province of only a few skilled people, we are not inclusive of the views of others. We can only expect disproportionate outcomes from this absence of voice “because a single visualization supplied by authorities may show only one facet of the data” (Jofre, 2016). To use data in service of equity, we must do better in our collaborations with students, parents, and the community. This is not just about building their skills with data, but also creating spaces for them to tell their own stories. In Feminism and Methodology: Social Science Issues (1987), Sandra Harding notes that “the questions an oppressed group wants answered are rarely requests for so-called truth. Instead, they are queries about how to change conditions.” 
+
+### Data sources ###
+The Office of Superintendent of Public Instruction (OSPI) hosts a variety of data, from student performance, to facilities, to fiscal allocations, and more. We will talk about the various paths and connections between these during class time, but here are a few of the most relevant starting points to learn more:
+* You can view and download historic data for districts and schools on the [Data Portal](https://www.k12.wa.us/data-reporting/data-portal).
+* Our state [report card](https://washingtonstatereportcard.ospi.k12.wa.us/) is intended to answer parent and community questions about student demographics, program participation, and performance.
+
+The [Educational Research Data Center (ERDC)](http://www.erdc.wa.gov/) has built a longitudinal data system that includes information on Washington students across multiple sectors. These sectors include early learning, K-12, post-secondary, and workforce sectors. These data are shared with ERDC by partnering agencies and institutions across the state. In this way, ERDC acts as a kind of “central hub,” where partnering agencies, institutions, and organizations can pool their data and seek answers to questions that none of them have the resources to answer by themselves.
+
+Visit the [National Center for Educational Statistics](https://nces.ed.gov/) is the primary federal entity for collecting and analyzing data related to education in the U.S. and other nations. You may also be interested in the [Civil Rights Data Collection](https://ocrdata.ed.gov/) which collects and publishes educational data related to civil rights and equity.
+
+Many public organizations have open data collections (and, if not, you can obtain information through the public disclosure process). Here are some [links to additional collections](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0), including wikipedia edits, air quality, Pokemon, and more.
+
+Head over to [Data USA](https://datausa.io/), a "comprehensive website and visualization engine of public US Government data" to find, map, compare, or download all manner of data related to living in the United States.
