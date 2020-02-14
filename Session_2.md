@@ -25,7 +25,7 @@ Here is what your input on the framework looked like for **Identify problems and
 <img src="https://github.com/tlricherson/TESC_MIT_Data/blob/master/graphics/Find%20questions.jpg" height="250">
 </p>
 
-There was not a clear cut winner in this area. We will try to address the various learning interests in Sessions 2 and 3. For this session, we will primarily focus on *possible sources/variety of data*. We will also start a conversation about data privacy and ethics around what we collect and share.
+*Involve other participants or stakeholders* was identified by three students as something they most wanted to learn in this area. I've placed some resources at the bottom of this page, but we will certainly spend some time talking about how to include educators, parents, and students as part of the decision-making process. How do we involve other stakeholders in our work? Whether they are peers, students, families, or community, we can use data with them (as opposed to something we do to them) to enact and support positive change.
 
 ### Resources ###
 The sites below are offered as some quick starting points for exploration. You do not need to review them in depth, but take a quick glance at them. Consider where the data entered either about you or by you ends up. 
@@ -60,7 +60,7 @@ Taylor, A. S., Lindley, S., Regan, T., Sweeney, D., Vlachokyriakos, V., Grainger
 <img src="https://github.com/tlricherson/TESC_MIT_Data/blob/master/graphics/Use%20data.jpg" height="250">
 </p>
 
-*Involve other participants or stakeholders* was identified by three students as something they most wanted to learn in this area. I've placed some resources at the bottom of this page, but we will certainly spend some time talking about how to include educators, parents, and students as part of the decision-making process. How do we involve other stakeholders in our work? Whether they are peers, students, families, or community, we can use data with them (as opposed to something we do to them) to enact and support positive change.
+There was not a clear cut winner in this area. We will try to address the various learning interests in Sessions 2 and 3. For this session, we will primarily focus on *possible sources/variety of data*. We will also start a conversation about data privacy and ethics around what we collect and share.
 
 ### Background ###
 One of the promises of our abundance of data is its _democratization_—the ability for anyone to access and share the stories found within the data. However, this work requires a basic level of data literacy that many may not have. Miriam Posner, a professor in the digital humanities program at UCLA, reminds us that “The boxes we use to label others are often not the ones they might use to describe themselves.” When data use and storytelling with data are the province of only a few skilled people, we are not inclusive of the views of others. We can only expect disproportionate outcomes from this absence of voice “because a single visualization supplied by authorities may show only one facet of the data” (Jofre, 2016). To use data in service of equity, we must do better in our collaborations with students, parents, and the community. This is not just about building their skills with data, but also creating spaces for them to tell their own stories. In Feminism and Methodology: Social Science Issues (1987), Sandra Harding notes that “the questions an oppressed group wants answered are rarely requests for so-called truth. Instead, they are queries about how to change conditions.” 
