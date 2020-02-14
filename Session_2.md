@@ -13,7 +13,7 @@ This page is rather long. :/  The top section relates to the *Identify problems 
 * A tour of educational data in Washington State
 * Involving stakeholders in our work
 
-### Frame questions ###
+## Frame questions ##
 
 Here is what your input on the framework looked like for **Identify problems and frame questions** and **Use data**. These are the two areas of the framework we will focus on during our time together.:
 
@@ -23,7 +23,7 @@ Here is what your input on the framework looked like for **Identify problems and
 
 There was not a clear cut winner in this area. We will try to address the various learning interests in Sessions 2 and 3. For this session, we will primarily focus on *possible sources/variety of data*. We will also start a conversation about data privacy and ethics around what we collect and share.
 
-## Resources ##
+### Resources ###
 The sites below are offered as some quick starting points for exploration. You do not need to review them in depth, but take a quick glance at them. Consider where the data entered either about you or by you ends up. 
 
 * The [Family Educational Rights and Privacy Act (FERPA)](https://www2.ed.gov/policy/gen/guid/fpco/ferpa/index.html) is a federal law that protects student privacy in terms of education records. It even applies to college students like you. As a classroom teacher, it is important to understand what you should or shouldn't share (and with whom). 
@@ -71,5 +71,5 @@ Taylor, A. S., Lindley, S., Regan, T., Sweeney, D., Vlachokyriakos, V., Grainger
 
 *Involve other participants or stakeholders* was identified by three students as something they most wanted to learn in this area. I've placed some resources at the bottom of this page, but we will certainly spend some time talking about how to include educators, parents, and students as part of the decision-making process. How do we involve other stakeholders in our work? Whether they are peers, students, families, or community, we can use data with them (as opposed to something we do to them) to enact and support positive change.
 
-## Background ##
+### Background ###
 One of the promises of our abundance of data is its _democratization_—the ability for anyone to access and share the stories found within the data. However, this work requires a basic level of data literacy that many may not have. Miriam Posner, a professor in the digital humanities program at UCLA, reminds us that “The boxes we use to label others are often not the ones they might use to describe themselves.” When data use and storytelling with data are the province of only a few skilled people, we are not inclusive of the views of others. We can only expect disproportionate outcomes from this absence of voice “because a single visualization supplied by authorities may show only one facet of the data” (Jofre, 2016). To use data in service of equity, we must do better in our collaborations with students, parents, and the community. This is not just about building their skills with data, but also creating spaces for them to tell their own stories. In Feminism and Methodology: Social Science Issues (1987), Sandra Harding notes that “the questions an oppressed group wants answered are rarely requests for so-called truth. Instead, they are queries about how to change conditions.” 
