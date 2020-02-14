@@ -1,4 +1,10 @@
-For our third session, we'll look at organizing and transforming data, as well as considering some ethical questions. How do we make decisions about what we include or exclude? What are the issues related to privacy when it comes to data?
+For our third session, we'll look at organizing and transforming data, as well as considering some ethical questions. How do we make decisions about what we include or exclude? What are the issues related to privacy when it comes to data? This means we will dabble in the *Use data* part of the framework, as well as *Transform data into information*. Your self-evaluation and input on using data are on the page for session two. Here is what you shared about transforming data:
+
+<p align="center"> 
+<img src="https://github.com/tlricherson/TESC_MIT_Data/blob/master/graphics/Transform%20data.jpg" height="250">
+</p>
+
+While there was not a strong consensus to set our direction here, there were two notes each for *Understand and use data displays and representations.* and *Consider the impact and consequences...* We could spend an entire course (and then some) on the first one, but we'll take some time to learn and apply some basic rules and tools for representing and reviewing data displays. Data ethics is also a broad (and important) topic. We'll start the conversation here, and continue on in Session Five.
 
 ## Readings ##
 
