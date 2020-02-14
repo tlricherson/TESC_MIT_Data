@@ -1,6 +1,13 @@
 During this session, we will consider how to use questions to drive inquiry into our classroom practices. We will also look at how data are collected and communicated between both users and systems.
 
-While most of the work of a classroom teacher may not include frequent access with state or national data, it is important to understand how to access additional information.
+While most of the work of a classroom teacher may not include frequent access with state or national data, it is important to understand how to access additional information. 
+
+Here is what your input on the framework looked like:
+
+<p align="center"> 
+<img src="https://github.com/tlricherson/TESC_MIT_Data/blob/master/graphics/Find%20questions.jpg" height="250">
+</p>
+*Involve other participants or stakeholders* was identified by three students as something they most wanted to learn in this area. I've placed some resources at the bottom of this page, but we will certainly spend some time in taling about how to include educators, parents, and students as part of the decision-making process.
 
 ## Readings ##
 **None required for this week.** Instead, complete the first assignment (see [Session 1 Page](https://github.com/tlricherson/TESC_MIT_Data/blob/master/Session_1.md) for details) and spend a few minutes clicking through the resources listed below.
