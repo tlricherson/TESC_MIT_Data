@@ -1,6 +1,10 @@
 # Session Five: Evaluate outcomes #
 
-In our final session, we will look at the larger roles and responsibilities educators have in using data. 
+In our final session, we will look at the larger roles and responsibilities educators have in using data. Based on your input during our first session, iterative decision cycles (sometimes referred to as *continuous improvement*) will be a focus of our conversation.
+
+<p align="center"> 
+<img src="https://github.com/tlricherson/TESC_MIT_Data/blob/master/graphics/Evaluate%20incomes.jpg" height="250">
+</p>
 
 ## Readings ##
 
