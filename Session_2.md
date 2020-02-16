@@ -8,7 +8,6 @@ This page is rather long. :/  Be sure to bring your snacks along as you make you
 **None required for this week.** Instead, complete the first assignment (see [Session 1 Page](https://github.com/tlricherson/TESC_MIT_Data/blob/master/Session_1.md) for details) and spend a few minutes clicking through the resources listed below.
 
 ## Agenda ##
-* Debrief Assignment #1
 * Identify problems and frame questions
 >> * What's the problem you're trying to solve?
 >> * Involving other participants or stakeholders
