@@ -12,9 +12,9 @@ While there was not a strong consensus to set our direction here, there were two
 
 ## Readings ##
 No articles this week. Instead, focus on two things:
-* Homework assignment #2: Choose two stories to tell from the data you collected and draw/construct two charts. With the first homework assignment, you were asked to focus on *process*. This time, focus on *product*. 
+* [Homework assignment #2](https://github.com/tlricherson/TESC_MIT_Data/blob/master/handouts/Homework%20Assignment%202.pdf): Choose two stories to tell from the data you collected and draw/construct two charts. With the first homework assignment, you were asked to focus on *process*. This time, focus on *product*. 
 
-It is totally okay to go with common representations, such as a line chart or bar chart. You don't have to get fancy. You can draw them by hand or you can use software or an online program. If you don't have any ideas of charts to make, take a look at the resources below.
+It is totally okay to go with common representations, such as a line chart or bar chart. You don't have to get fancy. You can draw them by hand or you can use software or an online program. If you don't have any ideas of charts to make, take a look at the resources below. For one story, develop a chart that shows the truth...for the other, develop a chart that conceals the truth.
 
 Communicating with data is as critical of a skill as communicating with text. You can explain, persuade, or create fantasy and fiction with numbers. There is grammar that goes along with charts. During this session, we will look at a few of those conventions. This will help you in your classroom in two ways: One is to be able to share ideas more clearly...and the other is to recognize when you are not being told the full story by others with their data.
 
