@@ -8,11 +8,20 @@ Your self-evaluation and input on using data are on the page for session two. He
 <img src="https://github.com/tlricherson/TESC_MIT_Data/blob/master/graphics/Transform%20data.jpg" height="250">
 </p>
 
-While there was not a strong consensus to set our direction here, there were two notes each for *Understand and use data displays and representations.* and *Consider the impact and consequences...* We could spend an entire course (and then some) on the first one, but we'll take some time to learn and apply some basic rules and tools for representing and reviewing data displays. Data ethics is also a broad (and important) topic. We'll start the conversation here, and continue on in Session Five.
+While there was not a strong consensus to set our direction here, there were two notes each for *Understand and use data displays and representations.* and *Consider the impact and consequences...* We could spend an entire course (and then some) on the first one, but we'll take some time to learn and apply some basic rules and tools for representing and reviewing data displays. Data ethics is also a broad (and important) topic. We'll start the conversation here, and continue on in the next sessions.
 
 ## Readings ##
+No articles this week. Instead, focus on two things:
+* Homework assignment #2: Choose two stories to tell from the data you collected and draw/construct two charts. With the first homework assignment, you were asked to focus on *process*. This time, focus on *product*. 
+
+It is totally okay to go with common representations, such as a line chart or bar chart. You don't have to get fancy. You can draw them by hand or you can use software or an online program. If you don't have any ideas of charts to make, take a look at the resources below.
+
+Communicating with data is as critical of a skill as communicating with text. You can explain, persuade, or create fantasy and fiction with numbers. There is grammar that goes along with charts. During this session, we will look at a few of those conventions. This will help you in your classroom in two ways: One is to be able to share ideas more clearly...and the other is to recognize when you are not being told the full story by others with their data.
 
 ## Agenda ##
+* Visual literacy
+* Homework assignment #2 review
+* Working with missing data and small n sizes
 
 ## Resources ##
 
@@ -38,6 +47,7 @@ Visit the Pinterest sites of [Jon Schwabish](https://www.pinterest.com/jonschwab
 * [Chart Suggestions: A Thought Starter](http://extremepresentation.typepad.com/files/choosing-a-good-chart-09.pdf) by Andrew Abela
 * [The Graphic Continuum](https://policyviz.com/2014/09/09/graphic-continuum/) by Jon Schwabish
 * [The Data Visualization Checklist](http://annkemery.com/wp-content/uploads/2016/10/DataVizChecklist_May2016.pdf) by Ann K. Emery and Stephanie Evergreen
+* [DataBasic](https://databasic.io/en/) is a suite of easy-to-use web tools for beginners that introduce concepts of working with data. These simple tools make it easy to work with data in fun ways, so you can learn how to find great stories to tell.
 
 
 ### Literature review ###
