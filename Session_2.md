@@ -15,6 +15,7 @@ This page is rather long. :/  Be sure to bring your snacks along as you make you
 * Use data
 >> * Debrief Assignment #1 (consider data organization, management, quality, types)
 >> * Data sources
+* [Homework Assignment #2](https://github.com/tlricherson/TESC_MIT_Data/blob/master/handouts/Homework%20Assignment%202.pdf)
 
 ## Frame questions ##
 
