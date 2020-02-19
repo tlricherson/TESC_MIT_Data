@@ -1,8 +1,8 @@
 # Session 4: Transform information into a decision #
 
-At some point, we have to move beyond *admiring the problem*. How do we do that? What does it look like? In this session, we'll consider the tools and strategies available to us as we diagnose, implement, monitor, and adjust our instruction.
+At some point, we have to move beyond *admiring the problem*. How do we do that? What does it look like? In this session, we'll consider the tools and strategies available to us as we diagnose, implement, monitor, and adjust our instruction. We'll consider traditional data walls in schools, as well as the role of student voice. What happens when students track and use their own data to identify goals and monitor progress?
 
-This was your input on the elements of the framework that needed attention:
+This was your input on the elements of the framework that needed attention (a couple votes each for *diagnosing causes* and *understanding the context*):
 
 <p align="center"> 
 <img src="https://github.com/tlricherson/TESC_MIT_Data/blob/master/graphics/Transform%20information.jpg" height="250">
