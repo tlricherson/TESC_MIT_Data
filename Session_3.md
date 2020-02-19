@@ -29,6 +29,14 @@ Communicating with data is as critical of a skill as communicating with text. Yo
 
 ## Resources ##
 
+### Tools and strategies ###
+* There are any number of collections of data viz options. For chart ideas, take a look at the [Data Viz Project](http://datavizproject.com), [The Chartmaker Directory](http://chartmaker.visualisingdata.com/), or [The Data Visualization Catalogue](http://www.datavizcatalogue.com/). Google News Lab and Adioma have just released the [Visualization Universe](http://visualizationuniverse.com/), a comprehensive site for books, charts, and tools about all things visualization.
+* [Qualitative Chart Chooser](http://stephanieevergreen.com/wp-content/uploads/2016/11/Qualitative-Chooser-2.0.pdf) by Stephanie Evergreen
+* [Chart Suggestions: A Thought Starter](http://extremepresentation.typepad.com/files/choosing-a-good-chart-09.pdf) by Andrew Abela
+* [The Graphic Continuum](https://policyviz.com/2014/09/09/graphic-continuum/) by Jon Schwabish
+* [The Data Visualization Checklist](http://annkemery.com/wp-content/uploads/2016/10/DataVizChecklist_May2016.pdf) by Ann K. Emery and Stephanie Evergreen
+* [DataBasic](https://databasic.io/en/) is a suite of easy-to-use web tools for beginners that introduce concepts of working with data. These simple tools make it easy to work with data in fun ways, so you can learn how to find great stories to tell.
+
 ### Tell me a story ###
 We are rarely good storytellers...but why? An article from PsychCentral explores why [most people are awful storytellers](https://psychcentral.com/news/2017/02/15/why-most-people-are-awful-storytellers/116460.html) and The Book of Life provides some tips on [how to narrate your dreams](http://www.thebookoflife.org/how-to-narrate-your-dreams/). Even better, check out [The Art of Storytelling](https://www.khanacademy.org/partner-content/pixar/storytelling), a free course from Pixar. It is part of their [Pixar in a Box](https://www.khanacademy.org/partner-content/pixar) program that helps you learn how their artists do their jobs.
 
@@ -45,13 +53,11 @@ Visit the Pinterest sites of [Jon Schwabish](https://www.pinterest.com/jonschwab
 [Mona Chalabi](https://twitter.com/MonaChalabi) has an [Instagram](https://www.instagram.com/monachalabi/) feed of her hand drawn charts on a variety of topics. Also, have a look the work of [Catherine Madden](https://twitter.com/catmule) who integrates data, design, and drawing. Michelle Rial posts [real life charts](https://www.instagram.com/realifecharts/) over on Instagram and two students share their ideas over at [Our Paper Data](https://ourpaperdata.wordpress.com/). For a more local flavour, scan the [Seattle Walk Report](https://www.instagram.com/seattlewalkreport/).
 
 
-### Tools and strategies ###
-* There are any number of collections of data viz options. For chart ideas, take a look at the [Data Viz Project](http://datavizproject.com), [The Chartmaker Directory](http://chartmaker.visualisingdata.com/), or [The Data Visualization Catalogue](http://www.datavizcatalogue.com/). Google News Lab and Adioma have just released the [Visualization Universe](http://visualizationuniverse.com/), a comprehensive site for books, charts, and tools about all things visualization.
-* [Qualitative Chart Chooser](http://stephanieevergreen.com/wp-content/uploads/2016/11/Qualitative-Chooser-2.0.pdf) by Stephanie Evergreen
-* [Chart Suggestions: A Thought Starter](http://extremepresentation.typepad.com/files/choosing-a-good-chart-09.pdf) by Andrew Abela
-* [The Graphic Continuum](https://policyviz.com/2014/09/09/graphic-continuum/) by Jon Schwabish
-* [The Data Visualization Checklist](http://annkemery.com/wp-content/uploads/2016/10/DataVizChecklist_May2016.pdf) by Ann K. Emery and Stephanie Evergreen
-* [DataBasic](https://databasic.io/en/) is a suite of easy-to-use web tools for beginners that introduce concepts of working with data. These simple tools make it easy to work with data in fun ways, so you can learn how to find great stories to tell.
+### Projects and examples ###
+* David Hunter’s [Data Walking](http://www.corruptedfiles.org.uk/portfolio/data-walking/) research project aims to collect environmental data while walking around North Greenwich, to build a rich picture of that area over time. Data gathering devices include sensors on micro controllers, smart phones, and recorded notes. This data is then used to create maps, charts, data experiences, or artistic works by participants to represent the area and the process of the project.
+* Visit Trevor Hogan's site on [Tactile Data](http://tactiledata.net/) to see a variety of data physicalization ideas in action.
+* "The sound of salmon can be used to understand their migration. The soundtrack to [this video](https://www.youtube.com/watch?v=bhpHi8TOryY) is the detailed movement of 45 juvenile salmon from the Snake River as they make their way to the ocean. It is scientific data turned to sound. Can you hear the movement of the population downstream to the ocean?" You may also want to check out Willian Justen's repo of [Awesome Audio Visualizations](https://github.com/willianjusten/awesome-audio-visualization).
+* Have you ever tried to imagine how a fish soup tastes whose recipe is based on publicly available local fishing data? Or what a pizza would be like if it was based on Helsinki’s population mix? [Data Cuisine](http://data-cuisine.net/), led by [Moritz Stefaner](https://twitter.com/moritz_stefaner), explores food as a means of data expression - or, if you like – edible diagrams.
 
 
 ### Literature review ###
