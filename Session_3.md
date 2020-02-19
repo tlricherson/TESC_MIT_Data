@@ -20,8 +20,11 @@ Communicating with data is as critical of a skill as communicating with text. Yo
 
 ## Agenda ##
 * Visual literacy
-* Homework assignment #2 review
-* Working with missing data and small n sizes
+> * Working with missing data and small n sizes
+> * Homework assignment #2 
+* Visualization literacy
+> Homework assignment #2 (Reprise)
+
 
 ## Resources ##
 
