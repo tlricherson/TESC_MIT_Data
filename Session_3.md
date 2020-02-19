@@ -65,15 +65,29 @@ Visit the Pinterest sites of [Jon Schwabish](https://www.pinterest.com/jonschwab
 ## Literature review ##
 **The articles below are not required reading. They are included here as reference only.**
 
+Boy, J., Detienne, F., & Fekete, J. D. (2015, April). [Storytelling in information visualizations: Does it engage users to explore data?](http://www.cs.tufts.edu/comp/250VIS/papers/CHI2015-Storytelling.pdf). In Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems (pp. 1449-1458). ACM.
+
 Brehmer, M., & Munzner, T. (2013). [A multi-level typology of abstract visualization tasks](https://www.cs.ubc.ca/labs/imager/tr/2013/MultiLevelTaskTypology/brehmer_infovis13.pdf). IEEE Transactions on Visualization and Computer Graphics, 19(12), 2376-2385.
 
 Gleicher, M. (2017). [Considerations for visualizing comparison](https://graphics.cs.wisc.edu/Papers/2018/Gle18/viscomp.pdf). IEEE Transactions on Visualization and Computer Graphics.
 
 Hullman, J., Kosara, R., & Lam, H. (2017, June). [Finding a clear path: Structuring strategies for visualization sequences](https://research.tableau.com/sites/default/files/Hullman-EuroVis-2017.pdf). In Computer Graphics Forum (Vol. 36, No. 3, pp. 365-375).
 
+Hullman, J., & Diakopoulos, N. (2011). [Visualization rhetoric: Framing effects in narrative visualization](http://faculty.washington.edu/jhullman/vis_rhetoric.pdf). IEEE transactions on visualization and computer graphics, 17(12), 2231-2240.
+
+Kosara, R., & Mackinlay, J. (2013). [Storytelling: The next step for visualization](http://dataplusscience.com/files/Kosara_Computer_2013.pdf). Computer, 46(5), 44-50.
+
 Kozlíková, B., Schreck, T., & Wischgoll, T. [An argument structure for data stories](https://research.tableau.com/sites/default/files/Kosara-EuroVis-2017.pdf).
 
+Lee, B., Riche, N. H., Isenberg, P., & Carpendale, S. (2015). [More than telling a story: Transforming data into visually shared stories](https://hal.inria.fr/hal-01158445/document). IEEE computer graphics and applications, 35(5), 84-90.
+
+Louchart, S., & Aylett, R. (2004). [Narrative theory and emergent interactive narrative](https://s3.amazonaws.com/academia.edu.documents/2727972/2g5a3wt0lcxskfr.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1509729986&Signature=YGHmyxGvdRLrM0y956F4b3vKmAs%3D&response-content-disposition=inline%3B%20filename%3DNarrative_theory_and_emergent_interactiv.pdf). International Journal of Continuing Engineering Education and Life Long Learning, 14(6), 506-518.
+
+Ma, K. L., Liao, I., Frazier, J., Hauser, H., & Kostis, H. N. (2012). [Scientific storytelling using visualization](http://vis.cs.ucdavis.edu/papers/Scientific_Storytelling_CGA.pdf). IEEE Computer Graphics and Applications, 32(1), 12-19.
+
 Sarikaya, A., & Gleicher, M. (2017). [Scatterplots: Tasks, data, and designs](https://graphics.cs.wisc.edu/Papers/2018/SG18/scatterplots-preprint.pdf). IEEE Transactions on Visualization and Computer Graphics.
+
+Segel, E., & Heer, J. (2010). [Narrative visualization: Telling stories with data](https://egerber.mech.northwestern.edu/wp-content/uploads/2015/02/Narrative_Visualization.pdf). IEEE transactions on visualization and computer graphics, 16(6), 1139-1148.
 
 Stolper, C. D., Lee, B., Riche, N. H., & Stasko, J. (2017). [Emerging and recurring data-driven storytelling techniques: Analysis of a curated collection of recent stories](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/04/MSR-TR-2016-14-Storytelling-Techniques.pdf). Retrieved in January.
 
