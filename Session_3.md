@@ -24,6 +24,7 @@ Communicating with data is as critical of a skill as communicating with text. Yo
 > * Homework assignment #2 
 * Visualization literacy
 > Homework assignment #2 (Reprise)
+* Storytelling with data
 
 
 ## Resources ##
