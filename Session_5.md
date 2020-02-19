@@ -23,3 +23,18 @@ In our final session, we will look at the larger roles and responsibilities educ
 ### Bias ###
 * All work with data---from the labels we choose to the charts we design---has potential inequitable impacts. Lena Groeger writes about some of these in [Forms Matter](https://source.opennews.org/articles/forms-matter/): how the design of forms can decide an election, affect racial profiling & shape identity
 * It's always important to be aware of the biases we bring to our work. Use this infographic codex to view [all possible cognitive biases in one spot](http://www.visualcapitalist.com/every-single-cognitive-bias/).
+
+## Literature review ##
+**The articles below are not required reading. They are included here as reference only.**
+
+Bardzell, S. (2010, April). [Feminist HCI: taking stock and outlining an agenda for design](https://pdfs.semanticscholar.org/61f2/408e1b510e5b10617abf947adfb5a35e8646.pdf). In Proceedings of the SIGCHI conference on human factors in computing systems (pp. 1301-1310). ACM.
+
+Bardzell, S., & Bardzell, J. (2011, May). [Towards a feminist HCI methodology: social science, feminism, and HCI](https://s3.amazonaws.com/academia.edu.documents/31454793/CHI11_FeministMethods_CAMERAREADY.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1509729799&Signature=F%2FZtRGJZPQbw72M2nE5olD7FFhI%3D&response-content-disposition=inline%3B%20filename%3DTowards_a_feminist_HCI_methodology_socia.pdf). In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (pp. 675-684). ACM.
+
+D’Ignazio, C., & Klein, L. F. (2016). [Feminist data visualization](http://www.kanarinka.com/wp-content/uploads/2015/07/IEEE_Feminist_Data_Visualization.pdf). In Workshop on Visualization for the Digital Humanities (VIS4DH), Baltimore. IEEE.
+
+Drucker, J. (2011). [Humanities approaches to graphical display](http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html). Digital Humanities Quarterly, 5(1), 1-21.
+
+Feinberg, M. (2017). [A design perspective on data](https://ils.unc.edu/~mfeinber/Feinberg%202017c.pdf). Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems, 2952-2963.
+
+Kim, Y. S., Reinecke, K., & Hullman, J. (2017). [Data through others' eyes: The impact of visualizing others' expectations on visualization interpretation](http://faculty.washington.edu/jhullman/VIS17_Expectations_SocialVis.pdf). IEEE Transactions on Visualization and Computer Graphics.
