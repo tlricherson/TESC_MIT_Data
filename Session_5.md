@@ -1,5 +1,7 @@
 # Session Five: Evaluate outcomes #
 
+We made it!!!
+
 In our final session, we will look at the larger roles and responsibilities educators have in using data. Based on your input during our first session, iterative decision cycles (sometimes referred to as *continuous improvement*) will be a focus of our conversation.
 
 <p align="center"> 
@@ -10,6 +12,7 @@ In our final session, we will look at the larger roles and responsibilities educ
 
 
 ## Agenda ##
+* Improvement science
 
 ## Projects and examples ##
 * David Hunter’s [Data Walking](http://www.corruptedfiles.org.uk/portfolio/data-walking/) research project aims to collect environmental data while walking around North Greenwich, to build a rich picture of that area over time. Data gathering devices include sensors on micro controllers, smart phones, and recorded notes. This data is then used to create maps, charts, data experiences, or artistic works by participants to represent the area and the process of the project.
