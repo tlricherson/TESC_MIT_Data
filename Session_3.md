@@ -32,11 +32,14 @@ Communicating with data is as critical of a skill as communicating with text. Yo
 ## Resources ##
 
 ### Tools and strategies ###
+**Types of visualizations**
 * There are any number of collections of data viz options. For chart ideas, take a look at the [Data Viz Project](http://datavizproject.com), [The Chartmaker Directory](http://chartmaker.visualisingdata.com/), or [The Data Visualization Catalogue](http://www.datavizcatalogue.com/). Google News Lab and Adioma have just released the [Visualization Universe](http://visualizationuniverse.com/), a comprehensive site for books, charts, and tools about all things visualization.
 * [Qualitative Chart Chooser](http://stephanieevergreen.com/wp-content/uploads/2016/11/Qualitative-Chooser-2.0.pdf) by Stephanie Evergreen
 * [Chart Suggestions: A Thought Starter](http://extremepresentation.typepad.com/files/choosing-a-good-chart-09.pdf) by Andrew Abela
 * [The Graphic Continuum](https://policyviz.com/2014/09/09/graphic-continuum/) by Jon Schwabish
 * [The Data Visualization Checklist](http://annkemery.com/wp-content/uploads/2016/10/DataVizChecklist_May2016.pdf) by Ann K. Emery and Stephanie Evergreen
+
+**Online tools for developing visualizations**
 * [DataBasic](https://databasic.io/en/) is a suite of easy-to-use web tools for beginners that introduce concepts of working with data. These simple tools make it easy to work with data in fun ways, so you can learn how to find great stories to tell.
 * Check out [Datawrapper](https://www.datawrapper.de/)...an online tool that will generate all sorts of charts and graphs for you.
 
