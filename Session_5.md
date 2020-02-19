@@ -24,6 +24,23 @@ In our final session, we will look at the larger roles and responsibilities educ
 * All work with data---from the labels we choose to the charts we design---has potential inequitable impacts. Lena Groeger writes about some of these in [Forms Matter](https://source.opennews.org/articles/forms-matter/): how the design of forms can decide an election, affect racial profiling & shape identity
 * It's always important to be aware of the biases we bring to our work. Use this infographic codex to view [all possible cognitive biases in one spot](http://www.visualcapitalist.com/every-single-cognitive-bias/).
 
+## Equity ##
+How do we develop more pluralistic data designs---ones which are inclusive of ideas from the full spectrum of genders, races, and cultures? What is the history of this work? Check out how [W.E.B. DuBois represented African-American life in 1900](http://publicdomainreview.org/collections/w-e-b-du-bois-hand-drawn-infographics-of-african-american-life-1900/), [Florence Nightingale](https://www.sciencenews.org/article/florence-nightingale-passionate-statistician), or the work of [Elizabeth Peabody](http://lklein.com/2014/12/visualization-as-argument/) shared by Lauren Klein.
+
+We can use our stories to [recover unusual histories](https://vimeo.com/179040817). At the 2016 Eyeo conference, Sara Hendren talks about "design for Know-Nothings, Dilettantes, and Melancholy Interlopers – Translators, impresarios, believers, and the heartbroken—this is a talk about design outside of authorship and ownership, IP or copyright, and even outside of research and collaboration. When and where do ideas come to life? What counts as design?"
+
+All work with data---from the labels we choose to the charts we design---has potential inequitable impacts. Lena Groeger writes about some of these in [Forms Matter](https://source.opennews.org/articles/forms-matter/): how the design of forms can decide an election, affect racial profiling & shape identity.
+
+[Lauren Klein](https://twitter.com/laurenfklein) has written about [visualization as argument](http://lklein.com/2014/12/visualization-as-argument/). You may also be interested in her presentation on [feminist data visualization](http://www.northeastern.edu/nulab/lauren-klein-feminist-data-visualization/) or view [all of her projects](http://dhlab.lmc.gatech.edu/projects/).
+
+From 2009, a [paper-based visualization competition](http://infosthetics.com/archives/2009/02/paper-based_visualization_competition_the_winner_and_more.html). How can we make data more experiential?
+
+## Ethics ##
+[Lena Groeger](https://twitter.com/lenagroeger) of ProPublica reminds us that "The data doesn't speak for itself---it echoes its collectors." Watch her 2017 Tapestry presentation on [When the storyteller shows up in the story](https://youtu.be/TvJYDz8849g) to think more about how various biases show up in the visuals we produce.
+
+Learn more about [responsible data use](https://blogs.microsoft.com/newyork//2016/01/20/dataviz-for-good-how-to-ethically-communicate-data-in-a-visual-manner-rdfviz/), including the series of [forums](https://responsibledata.io/) where various [handbooks](https://responsibledata.io/resources/handbook/) have been developed to support this work on a larger scale.
+
+
 ## Literature review ##
 **The articles below are not required reading. They are included here as reference only.**
 
