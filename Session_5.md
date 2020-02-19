@@ -8,7 +8,7 @@ In our final session, we will look at the larger roles and responsibilities educ
 <img src="https://github.com/tlricherson/TESC_MIT_Data/blob/master/graphics/Evaluate%20incomes.jpg" height="250">
 </p>
 
-## Readings ##
+## Read Me ##
 
 
 ## Agenda ##
