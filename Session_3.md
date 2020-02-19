@@ -36,6 +36,7 @@ Communicating with data is as critical of a skill as communicating with text. Yo
 * [The Graphic Continuum](https://policyviz.com/2014/09/09/graphic-continuum/) by Jon Schwabish
 * [The Data Visualization Checklist](http://annkemery.com/wp-content/uploads/2016/10/DataVizChecklist_May2016.pdf) by Ann K. Emery and Stephanie Evergreen
 * [DataBasic](https://databasic.io/en/) is a suite of easy-to-use web tools for beginners that introduce concepts of working with data. These simple tools make it easy to work with data in fun ways, so you can learn how to find great stories to tell.
+* Check out [Datawrapper](https://www.datawrapper.de/)...an online tool that will generate all sorts of charts and graphs for you.
 
 ### Tell me a story ###
 We are rarely good storytellers...but why? An article from PsychCentral explores why [most people are awful storytellers](https://psychcentral.com/news/2017/02/15/why-most-people-are-awful-storytellers/116460.html) and The Book of Life provides some tips on [how to narrate your dreams](http://www.thebookoflife.org/how-to-narrate-your-dreams/). Even better, check out [The Art of Storytelling](https://www.khanacademy.org/partner-content/pixar/storytelling), a free course from Pixar. It is part of their [Pixar in a Box](https://www.khanacademy.org/partner-content/pixar) program that helps you learn how their artists do their jobs.
