@@ -9,12 +9,12 @@ This page is rather long. :/  Be sure to bring your snacks along as you make you
 
 ## Agenda ##
 * Identify problems and frame questions
->> * What's the problem you're trying to solve?
->> * Involving other participants or stakeholders
->> * Student privacy and data ethics
+> * What's the problem you're trying to solve?
+> * Involving other participants or stakeholders
+> * Student privacy and data ethics
 * Use data
->> * Debrief Assignment #1 (consider data organization, management, quality, types)
->> * Data sources
+> * Debrief Assignment #1 (consider data organization, management, quality, types)
+> * Data sources
 * [Homework Assignment #2](https://github.com/tlricherson/TESC_MIT_Data/blob/master/handouts/Homework%20Assignment%202.pdf)
 
 ## Frame questions ##
