@@ -11,6 +11,7 @@ This page is rather long. :/  Be sure to bring your snacks along as you make you
 * Identify problems and frame questions
 > * What's the problem you're trying to solve?
 > * Involving other participants or stakeholders
+>> * [What's on your radar?](https://github.com/tlricherson/TESC_MIT_Data/blob/master/handouts/Radar.pdf)
 > * Student privacy and data ethics
 * Use data
 > * Debrief Assignment #1 (consider data organization, management, quality, types)
