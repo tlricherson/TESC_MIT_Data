@@ -12,7 +12,9 @@ In our final session, we will look at the larger roles and responsibilities educ
 
 
 ## Agenda ##
-* Improvement science
+* Improvement science and action research
+* Continuous improvement
+* Responsible data use/data ethics
 
 ## Resources ##
 
